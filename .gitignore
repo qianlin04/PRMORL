@@ -1,0 +1,10 @@
+.vscode/
+lib/__pycache__/
+PRMORL/EvaluationNetworks/*
+PRMORL/Exps/*
+PRMORL/Figures/*
+PRMORL/data/*
+PRMORL/logs/*
+PRMORL/logs_backup/
+PRMORL/runs/
+PRMORL/wandb/
